@@ -22,7 +22,7 @@ steps:
 
 - task: AzureCLI@2
   inputs:
-    azureSubscription: 'bdaf35b9-e3e8-45cd-9e59-39e689484c93'
+    azureSubscription: 'amlyongle'
     scriptType: 'bash'
     scriptLocation: 'inlineScript'
     inlineScript: |
